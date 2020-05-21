@@ -1,4 +1,4 @@
-# ClubPenguinAutoMiner
+# Club Penguin Auto Miner
 
 This script will automatically move positions for you, then start mining again. 
 Leave it running overnight and you will earn around $200,000
